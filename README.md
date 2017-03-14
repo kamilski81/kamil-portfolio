@@ -23,6 +23,6 @@ https://github.com/kamilski81/kamil-portfolio/tree/master/cadence-counter-screen
 Article:
 http://www.chicagotribune.com/bluesky/originals/ct-rithmio-paralympics-track-bsi-20160907-story.html
 
-## My Resume
+## My Resume (As of 3/17/2017)
 
 https://github.com/kamilski81/kamil-portfolio/blob/master/Resume%20Kamil%20Chmielewski.pdf
