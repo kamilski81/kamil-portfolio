@@ -1,4 +1,4 @@
-This is a repository of the apps that my team and I have worked on. The apps were previously in the Play Store, but were removed once the businesses closed their doors.
+This is a repository of the apps that and I have worked on. The apps were previously in the Play Store, but were removed once the businesses closed their doors.
 
 ## Rithmio EDGE
 
