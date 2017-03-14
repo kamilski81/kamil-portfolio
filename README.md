@@ -25,4 +25,4 @@ http://www.chicagotribune.com/bluesky/originals/ct-rithmio-paralympics-track-bsi
 
 ## My Resume
 
-Here is a link to my resume.
+https://github.com/kamilski81/kamil-portfolio/blob/master/Resume%20Kamil%20Chmielewski.pdf
